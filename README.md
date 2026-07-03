@@ -1,17 +1,9 @@
 <h1 align="center">Hi, I'm Ilhan Kazan</h1>
-<h3 align="center">Computer Engineering Senior & Backend Developer</h3>
+<h3 align="center">Backend Engineer — Java / Spring Boot / Microservices</h3>
 
-<p align="center">
-  Building scalable APIs, event-driven microservices, and diving deep into modern software architecture.
-</p>
-
-- **Currently building:** A multi-tenant e-commerce platform (Spring Boot, FastAPI, Kafka) & an AI-driven data assistant.
-- **Recent work:** **SubMinder** (a Go-based API using Clean Architecture) and converting web platforms to React Native.
-- **Exploring:** Advanced Java concurrency (Virtual Threads), the Golang ecosystem, and self-hosting/home labs.
-- **Ask me about:** Spring Boot, REST APIs, Microservices, or my HomeLab experiments!
-- **All projects:** [github.com/IlhanKazan](https://github.com/IlhanKazan)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ilhan-kazan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilhan-kazan" height="30" width="40" /></a>
-</p>
+- **[SocialHan](https://socialhan.ilhankazan.com) (live):** Real-time social platform — Java 21 / Spring Boot 3.4, React 19, PostgreSQL. Live feed & DMs over WebSocket/STOMP, hardened auth (JWT rotation + family revocation, TOTP MFA), two-stage AI moderation, JUnit/Mockito + Testcontainers + k6 in CI → [source](https://github.com/IlhanKazan/social-media)
+- **[AI-Powered Multi-Tenant E-Commerce](https://github.com/IlhanKazan/ecommerce-microservices-platform):** Distributed microservices — Kafka + Debezium CDC (outbox/inbox), SAGA orchestration, CQRS read model on Elasticsearch, Keycloak OIDC with custom SPI, FastAPI AI layer, Prometheus/Grafana/Zipkin/Loki observability
+- **At work:** Building an AI BI platform — natural-language reporting via text-to-SQL and RAG (Java/Spring Boot + FastAPI)
+- **Other projects:** [SubMinder](https://github.com/IlhanKazan/subminder) — Go/Gin subscription API, Clean Architecture · Self-hosted home lab behind Cloudflare Tunnels
+- **Exploring:** Java Virtual Threads, k3s
+- 🌐 [ilhankazan.com](https://ilhankazan.com) · [LinkedIn](https://linkedin.com/in/ilhan-kazan)
